@@ -19,3 +19,5 @@
 - **User Stories**:
   - "As a tutor, I want to be able to access my schedule so that I can see what appointments I have for the day and prepare accordingly."
   - "As a tutor, I want students to be able to give me feedback so I can provide a better-tailored approach."
+  - "As a tutor, I want to be able to book tutoring rooms so that I have a nice, quiet place to tutor students."
+  - "As a tutor, I want students to be able to see my schedule so that they can book tutoring times when I am available."
