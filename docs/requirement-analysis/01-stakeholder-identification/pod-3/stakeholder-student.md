@@ -31,3 +31,4 @@
   - "As a student, I want to easily schedule appointments for things like tutoring or talking to my counselor without having to wait awkwardly. "
   - "As a student, I want to see how many available computers there are in the library so that I don't waste time going to the library to us the computer when there are none available."
   - "As a student, I want to see wait times at the different dining options on campus so that I can manage my time accordingly."
+  - "As a student, I want to see how far and how much time it takes to walk to different classrooms so that I can properly manage my class schedule and not be late for class."
