@@ -30,4 +30,13 @@ well-informed on their current office hours.
 * "As a computer science student, I want the ability to be able to see the different
 CSCI tutor centers and their current relevant information, like hours, so that 
 I can stay informed about any CSCI tutor center information"
-
+* "As a computer science student, I want to be able to view my current course 
+schedule and any changes made to it so that I can stay updated on class timings and locations."
+* "As a computer science student, I want to be notified about available internships 
+or job opportunities related to CSCI so that I can take advantage of career-building opportunities."
+* "As a computer science student, I want to see information about guest lectures 
+or technical workshops so that I can attend and expand my knowledge outside of the classroom."
+* "As a computer science student, I want the ability to view recorded lectures 
+or course materials through the kiosk so that I can catch up on missed content."
+* "As a computer science student, I want to be able to reserve equipment for class projects through the kiosk 
+so that I can easily access the tools I need for my coursework."

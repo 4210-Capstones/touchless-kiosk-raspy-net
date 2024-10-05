@@ -30,3 +30,11 @@ so that I can visualize where I need to go anywhere on campus."
 requirements, so that I can be more informed to apply to the program."
 * "As a visitor, I want to be able to search for a faculty member's contact info
 so that I can connect with them for inquiries."
+* "As a visitor, I want to see a list of upcoming department events 
+displayed on the kiosk so that I can plan my visit to attend interesting talks or workshops."
+* "As a visitor, I want to access frequently asked questions (FAQs) about the CSCI program 
+so that I can quickly find answers to common concerns without needing to ask for assistance."
+* "As a visitor, I want the kiosk to display real-time announcements or alerts regarding department 
+events or closures so that I can stay informed during my visit."
+* "As a visitor, I want the kiosk to offer multiple language options so that I can 
+interact with it comfortably in my preferred language."
