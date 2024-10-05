@@ -1,10 +1,16 @@
-"As a student, I want to see a map of the building so that I can easily find my classrooms or professor's office."
-"As a student, I want to sign up for study group sessions via the kiosk so that I can collaborate with classmates outside of class."
-"As a student, I want to search for and reserve available study rooms using the kiosk so that I can secure a quiet space for group work."
+<h1>Stakeholder Analysis - Students</h1>
 
-
-As a student, I want to check the availability of professors' office hours on the kiosk, so that I can plan my visits accordingly.
-As a student, I want to browse available course syllabi on the kiosk, so that I can review course expectations and schedules.
-As a student, I want to access campus dining menus through the kiosk, so that I can decide where to eat based on available options.
-As a student, I want to register for campus workshops or career fairs via the kiosk, so that I can participate in professional development activities.
-As a student, I want to report technical issues with the kiosk directly through the system, so that any malfunctions are quickly addressed by IT staff.
+<h2>Roles</h2>
+<ol>
+    <li>Will be the group to most likely interact with the kiosk during the semester</li>
+    <li>The student body will be most intrested in relevant information about clubs, classes, campus activities </li>
+</ol>
+<h2>Potential Wants/ Needs</h2>
+<o1>
+    <li>Maps of the building so they can easily find classrooms or professor's offices'.</li>
+    <li>Sign up for a study group via the kiosk so there is more collaboration with classmates outside of class.</li>
+    <li>Check the avaiability of course syllabi both old and new so that course expectations can be seen.</li>
+    <li>CHeck dining menies through the kiosk, that that they can decide where to eat.</li>
+    <li>Register for campus workshops or career fairs via the kiosk for participatation.</li>
+    <li>To report technical issues with the kiosk firecty through the system so that any malfunctions are quickly addressed by IT staff.</li>
+</o1>
