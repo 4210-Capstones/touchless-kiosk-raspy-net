@@ -32,3 +32,4 @@
   - "As a student, I want to see how many available computers there are in the library so that I don't waste time going to the library to us the computer when there are none available."
   - "As a student, I want to see wait times at the different dining options on campus so that I can manage my time accordingly."
   - "As a student, I want to see how far and how much time it takes to walk to different classrooms so that I can properly manage my class schedule and not be late for class."
+  - "As a student, I want to be able to see a live update of how full the library is so that I can gage whether or not it is better to study at the library, at home, or another place."
