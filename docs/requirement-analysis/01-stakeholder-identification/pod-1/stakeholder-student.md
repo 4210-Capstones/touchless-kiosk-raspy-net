@@ -5,7 +5,7 @@
     <li>Will be the group to most likely interact with the kiosk during the semester</li>
     <li>The student body will be most intrested in relevant information about clubs, classes, campus activities </li>
 </ol>
-<h2>Potential Wants/ Needs</h2>
+<h2>Potential Wants/Needs</h2>
 <o1>
     <li>Maps of the building so they can easily find classrooms or professor's offices'.</li>
     <li>Sign up for a study group via the kiosk so there is more collaboration with classmates outside of class.</li>
