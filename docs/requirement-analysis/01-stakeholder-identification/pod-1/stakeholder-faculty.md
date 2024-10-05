@@ -16,5 +16,6 @@
   <li>Post reminders about upcoming guest lectures or seminars on the kiosk, so that students are aware of these learning opportunities.</li>
   <li>Upload supplementary course materials (like readings or guides) to the kiosk, so that students can access additional learning resources.</li>
   <li>Broadcast department news and updates on the kiosk, so that the department stays connected with students and visitors.</li>
+  <li>Run campus-wide surveys through the kiosk, so to collect feedback from students and visitors</li>
   
 </ol> 
