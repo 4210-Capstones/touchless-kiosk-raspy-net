@@ -17,3 +17,11 @@ As a student leader, I want to be able to advertise my organization’s club mee
 As a student leader, I want students to be able to register for club events to get an idea of how many people to expect.  
 
 As a student leader, I want students to be able to get in contact with organizers quickly if they need to.
+
+As a student leader, I would like to receive student feedback on events.
+
+As a student leader, I would like an easy way for other students and faculty to request a collaboration.
+
+As a student leader, I would like students without social media to see that my organization is alive and thriving.
+
+As a student leader, I would like to advertise board elections.
