@@ -21,3 +21,9 @@ As a transfer student, I want to be able to view the tutoring schedule for CSCI 
 As a transfer student, I want access to a directory of CSCI department instructors with contact information, so that I can reach out to them if I have questions about courses or class content.
 
 As a transfer student, I want to be able to use an interactive map of the campus buildings, including the CSCI department, so that I can easily navigate the campus and find my classrooms and labs.
+
+As a transfer student, I would like to see what other student organizations are on campus other than Computer Science student organizations.
+
+As a transfer student, I would like to learn more about how UNO goes about Privateer Bucks.
+
+As a transfer studnt, I would like to see how many of my credits transferred to fulfil UNO's CS curriculum requirements.
