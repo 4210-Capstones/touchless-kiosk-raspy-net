@@ -12,9 +12,3 @@
   <li>Run remote diagnostics on the kiosk, so that I can detect hardware or software failures without needing physical access.</li>
   <li>Set usage limits or downtime for the kiosk, so that I can perform maintenance without disrupting users.</li>
 </ol> 
-
-<h2>Painpoints</h2>
-<p>Coming soon</p>
-
-<h2>Desired Outcomes</h2>
-<p>Coming soon</p>
