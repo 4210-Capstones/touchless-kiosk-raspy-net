@@ -2,7 +2,7 @@
 
 ## Stakeholder: Current Student
 - **Interview Date**: October 13, 2024
-- **Interviewee**: Student Stakeholder (Justin Nguyen)
+- **Interviewee**: Justin Nguyen
 
 ### Key Insights:
 - **Essential Features**:  
