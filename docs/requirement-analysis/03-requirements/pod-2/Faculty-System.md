@@ -9,10 +9,10 @@
 - **Online Office Hours Booking**: The system must include an online office hours booking feature for faculty to manage student appointments.
 
 ## 2. Non-Functional Requirements 
-- **Fast Response Time**: The system must respond to faculty actions, such as posting schedules or job opportunities, within 2 seconds.
-- **Data Security**: The system must ensure data security, particularly for sensitive student information and feedback.
-- **User-Friendly Interface**: The system must be easy to use, minimizing the learning curve for faculty members.
-- **Scalability**: The system must be scalable to accommodate multiple users and courses simultaneously without performance issues.
+- **Quick System Updates**: The system should efficiently handle schedule updates and posts, reflecting changes on the kiosk within a minimal delay.
+- **Robust Privacy Measures**: The system must protect sensitive student data, including achievements, job postings, and feedback, adhering to privacy standards.
+- **Intuitive User Experience**: The system should be designed for ease of use, ensuring that faculty can navigate and operate features without extensive training.
+- **High Scalability**: The system should seamlessly accommodate increasing numbers of faculty, students, and course data without impacting performance.
 
 ## 3. Feature List Priorization, and Difficulty
 ### Critical Features (MVP)
