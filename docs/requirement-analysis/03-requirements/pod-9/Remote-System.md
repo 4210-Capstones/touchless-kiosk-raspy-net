@@ -10,8 +10,8 @@
 ### Critical Features (MVP)
 
 ### High Priority Features
-- **Remote Access**: Let entire system be accessible remotely via browser/app. (Priority: High, Difficulty: Hard)
 
 ### Medium Priority Features
+- **Remote Access**: Let entire system be accessible remotely via browser/app. (Priority: Medium, Difficulty: Hard)
 
 ### Low Priority Features
