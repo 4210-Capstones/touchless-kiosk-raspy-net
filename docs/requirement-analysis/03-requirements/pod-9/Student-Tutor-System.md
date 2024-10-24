@@ -17,7 +17,7 @@
 ### High Priority Features
 - **Receive announcement notification**: Students receive notifications of their announcements (Priority: High, Difficulty: Easy)
 - **Appointment Booking**: Manage student-tutor appointments (Priority: High, Difficulty: Medium)
-- - **Tutor Schedules*: Access tutor schedules with rooms (Priority: High, Difficulty: Easy)
+- **Tutor Schedules**: Access tutor schedules with rooms (Priority: High, Difficulty: Easy)
 
 ### Medium Priority Features
 - **Course Location**: Students should see course location (Priority: Medium, Difficultly: Easy)
