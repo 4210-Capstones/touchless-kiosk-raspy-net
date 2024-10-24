@@ -31,12 +31,12 @@
 
 ### Refined User Stories:
 
-"As a faculty member, I want to update course schedules on the kiosk so that students get the latest information."   
-"As a faculty member, I want to share important deadlines on the kiosk so that students can plan ahead."   
-"As a faculty member, I want to manage my appointment times through the kiosk so that students can book easily."   
-"As a faculty member, I want quick access to university rules and resources so I can help my students effectively."     
-"As a faculty member, I want to show details about upcoming events on the screens to get students involved."   
-"As a faculty member, I want a place to share information about meetings and discussions in my department to foster collaboration."   
-"As a faculty member, I want to collaborate with other faculty on activities shown on the kiosk to improve departmental communication."  
-"As a faculty member, I want to track attendance in my classes through the kiosk to monitor student engagement."   
-"As a faculty member, I want to access past event details from the kiosk so I can reference them in future planning."   
+- "As a faculty member, I want to update course schedules on the kiosk so that students get the latest information."   
+- "As a faculty member, I want to share important deadlines on the kiosk so that students can plan ahead."   
+- "As a faculty member, I want to manage my appointment times through the kiosk so that students can book easily."   
+- "As a faculty member, I want quick access to university rules and resources so I can help my students effectively."     
+- "As a faculty member, I want to show details about upcoming events on the screens to get students involved."   
+- "As a faculty member, I want a place to share information about meetings and discussions in my department to foster collaboration."   
+- "As a faculty member, I want to collaborate with other faculty on activities shown on the kiosk to improve departmental communication."  
+- "As a faculty member, I want to track attendance in my classes through the kiosk to monitor student engagement."   
+- "As a faculty member, I want to access past event details from the kiosk so I can reference them in future planning."   
