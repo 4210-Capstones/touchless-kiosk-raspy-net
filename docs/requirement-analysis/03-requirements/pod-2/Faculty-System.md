@@ -25,3 +25,4 @@
 
 ### Low Priority Features
 - **Survey Creation and Distribution**: Faculty can create and distribute surveys for student feedback on course content. (Priority: Low, Difficulty: Easy)
+- **Tutoring Metrics Tracking**: While useful for assessing teaching effectiveness, tracking tutoring sessions isn’t immediately necessary for basic course management.
