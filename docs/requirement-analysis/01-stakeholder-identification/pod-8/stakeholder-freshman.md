@@ -21,3 +21,13 @@ As a freshman, I want to find out about events that are happening on campus.
 As a freshman, I want to know what student organizations I can join. 
 
 As a freshman, I want to find my classrooms easily.  
+
+As a freshman, I want to know the job opportunities available to me on campus.
+
+As a freshman, I want to know what skills I should learn to prepare for an internship.
+
+As a freshman, I want to know who the professors are and what they look like.
+
+As a freshman, I want to hit the ground running and have a space to apply my new skills.
+
+As a freshman, I want to know what to focus on academically and professionally.
