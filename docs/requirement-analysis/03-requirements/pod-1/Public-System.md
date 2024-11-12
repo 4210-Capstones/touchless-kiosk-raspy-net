@@ -1,4 +1,4 @@
-# [Gesture controls] Requirements Document
+# [Public System] Requirements Document
 ## 1. Functional Requirements
 - **Gesture controls:** Allow for basic hardware interactrion via touchless 
     controls.

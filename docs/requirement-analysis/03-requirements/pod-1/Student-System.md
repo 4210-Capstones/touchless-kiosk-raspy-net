@@ -1,7 +1,8 @@
-# [AI] Requirements Document
+# [Student System] Requirements Document
 ## 1. Functional Requirements
 - **AI assitant:** Intergate AI functionality
-- **Training data:** Should be able to get UNO-based query q&a's.
+- **Training data:** Should be able to get UNO-based query q&
+    a's.
 - **Hardware:** We need to choose a local-trained model ie:ChatRTX or 
     using a cloud-based/ pre-existing model. 
 
