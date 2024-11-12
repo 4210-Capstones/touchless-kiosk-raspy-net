@@ -13,7 +13,6 @@
 - **Games**: A system offering short games (e.g., Fruit Ninja, Flappy Bird) integrated with motion sensors for entertainment and educational purposes.
 
 ## 2. Systems Breakdown: Milestones, Sprints & Tasks
-
 ### Shared Systems
 
 #### Important Dates Display
@@ -44,7 +43,6 @@
     - **Task 1**: Develop an interface to input and schedule quotes/puzzles (priority: low, complexity: low).
 
 ## 3. Incremental Cycles
-
 ### Cycle 1: Minimum Viable Product (MVP)
 - **Important Dates Display (Shared)**:
   - Milestone 1, Task 1 (priority: high).
