@@ -21,3 +21,11 @@ As a CS Ambassador, I want to be able to showcase student projects at university
 As a CS Ambassador, I want to have access to a gallery of past student projects, so that I can easily display a variety of work that highlights different areas of study within computer science.
 
 As a CS Ambassador, I want to be able to track engagement with showcased projects (e.g., views, questions, sign-ups), so that I can measure the effectiveness of these showcases in attracting new students to the department.
+
+As a CS Ambassador, I would like to find other ways to get involved in CS student orgs.
+
+As a CS Ambassador, I would like to display my contact information for outreach opportunities.
+
+As a CS Ambassador, I would like to advertise other opportunities tat I know of to students and faculty.
+
+As a CS Ambassador, I would like to remove old/outdated information and postings.

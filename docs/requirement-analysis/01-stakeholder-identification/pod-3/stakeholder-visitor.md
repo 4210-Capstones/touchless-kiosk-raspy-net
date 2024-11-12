@@ -19,3 +19,7 @@
 - **User Stories**:
   - "As a visitor, I want to learn about what the campus has to offer and view student life and involvement."
   - "As a visitor, I want access to a campus map so I can have a nice overview of what the area is like and be able to nagivate my way with ease."
+  - "As a visitor, I want to learn about each department so that I can choose my major when I attend UNO."
+  - "As a visitor, I want to be able to book campus tours so that I can learn more about what the school has to offer."
+  - "As a visitor, I want to see reviews of the dining options on campus so that I can try out one of the places during my visit."
+  - "As a visitor, I want to see reviews of the school from other students and alumni to learn about the school's culture."
