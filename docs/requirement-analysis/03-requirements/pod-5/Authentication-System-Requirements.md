@@ -2,7 +2,7 @@
 # Authentication System Requirements Document
 
 ## 1. Functional Requirements
-- **User Authentication:** Secure user login system for faculty and maintenance staff with authentication methods such as passwords or RFID badges.
+- **User Authentication:** Secure user login system for admin with authentication methods such as passwords or RFID badges.
 - **Role-Based Access Control (RBAC):** Different levels of access depending on user roles (e.g., admin, faculty, maintenance).
 - **Audit Trails:** System must log all actions performed by users, including time-stamped entries for uploads, changes, and deletions.
 
