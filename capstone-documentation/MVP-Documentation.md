@@ -8,7 +8,7 @@
 - Pod 5 - Cycle 1 - Leap Motion
 - Pod 6 - Cycle 2 - GUI: Dashboard for UNO Partners/Research - Collaboration with Pod 7
 - Pod 7 - Cycle 1 - Window-System UI- Collaboration with Pod 6
-- Pod 8 - Cycle 1 - Scrumm Master, Make sure pods are on-tak - Collaboration with Pod 2
+- Pod 8 - Cycle 1 - Scrumm Master, Communicate and Make sure pods are on-task - Collaboration with Pod 2
 - Pod 9 - Cycle 1 - Rest API and Auth/Role Management
 - Pod A - Cycle 2 - Booking
 - Pod B - Cycle 2 - General Resources
