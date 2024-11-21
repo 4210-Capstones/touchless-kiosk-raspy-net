@@ -9,4 +9,3 @@
 - **Workflow Integration**:  It saves a lot of time in every aspect to not need a mouse or a remote for every little thing. Like switching between slides or be it changing the programs.
 ### Refined User Stories:
 1. "As a [student], I want [gestures] so that [it will be easy to use the kiosk]."
-2. "As a [student], I want [functionality] so that [desired outcome]."

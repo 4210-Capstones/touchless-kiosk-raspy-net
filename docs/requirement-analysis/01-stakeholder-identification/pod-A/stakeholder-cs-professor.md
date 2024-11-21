@@ -20,7 +20,7 @@
 - Inaccurate RSVPs due to lack of communication or outdated information
 
 ## Desired Outcomes:
-- Central hub to act as the catalyst between students and faculty members by improving communication
+- Central hub to act as the catalyst between students and CS professors by improving communication
 - Streamlined interface to update office hours or course information
 - Platform to easily gather mass feedback from students
 - Real-time notifications for urgent news or CS opportunities
@@ -28,13 +28,13 @@
 - A non-stigmatized method communication between student and professor
 
 ## User Stories:
-- "As a faculty member, I want a widespread platform to announce upcoming events so more students are informed of opportunities."
-- "As a faculty member, I want an up-to-date notifications of potential problems so that I can plan accordingly"
-- "As a faculty member, I want a scheduling system so that students can easily make appointments without complications"
-- "As a faculty member, I want access to mass student feedback so that I can fix problems for the future"
-- "As a faculty member, I want a centralized dashboard so that I can access course and student information"
-- "As a faculty member, I want student data so that events and opportunities can be tailored to the student body"
-- "As a faculty member, I want resources for common student issues so that I can be more informed to help potential students in need"
-- "As a faculty member, I want a method to update my students of last minute changes so that students are not left in the dark"
-- "As a faculty member, I want the ability to cooperate with students easily so that it builds a community"
-- "As a faculty member, I want increased engagement so to get students involved in the curriculam"
+- "As a CS professor, I want a widespread platform to announce upcoming events so more students are informed of opportunities."
+- "As a CS professor, I want an up-to-date notifications of potential problems so that I can plan accordingly"
+- "As a CS professor, I want a scheduling system so that students can easily make appointments without complications"
+- "As a CS professor, I want access to mass student feedback so that I can fix problems for the future"
+- "As a CS professor, I want a centralized dashboard so that I can access course and student information"
+- "As a CS professor, I want student data so that events and opportunities can be tailored to the student body"
+- "As a CS professor, I want resources for common student issues so that I can be more informed to help potential students in need"
+- "As a CS professor, I want a method to update my students of last minute changes so that students are not left in the dark"
+- "As a CS professor, I want the ability to cooperate with students easily so that it builds a community"
+- "As a CS professor, I want increased engagement so to get students involved in the curriculam"

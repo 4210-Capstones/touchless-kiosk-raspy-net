@@ -1,5 +1,7 @@
 ## 1. Systems and Cycles
 ### Systems
+- **Navigation and Gesture Recognition**: Graphical user interface and Leap Motion implmementation for the kiosks.
+- **Authentication**: Back-end server for administrator/editor credentials and permissions.
 - **Resource Directory System**: Searchable databases for academic advisors, instructors, and organizations.
 - **Real-time Availability System**: Live tracking of classroom and study room availability.
 - **Credit Transfer System**: Display transfer credit information for students.
