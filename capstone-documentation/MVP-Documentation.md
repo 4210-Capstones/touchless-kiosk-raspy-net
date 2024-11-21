@@ -1,5 +1,5 @@
 # MVP Documentation: 
-## November 12th, 2024 (Week 1)
+November 7th, 2024
 
 - Pod 1 - Cycle 1 - Request Form
 - Pod 2 - Cycle 1 - Documentation - Collaboration with Pod 8
