@@ -17,7 +17,7 @@ https://github.com/jasonBuras/skunkworks
   Brainstorming tables needed, possibly using sqlalchemy and maybe postgres
 
 - Pod 5 (Leap Motion):
-  Waiting on the installation of new memory cards (finding them + setting them up). Swiping functionality research in progress
+  Waiting on the installation of new memory cards (finding them + setting them up). Swiping functionality research in progress. Mitchell is  working on the 3d printing stands for the cameras.
 
 - Pod 6 (UNO UI Research/Partner):
   UI select UNO Partner that includes past research, current research, videos, design of the modules of various partners (backend)
