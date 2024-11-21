@@ -1,17 +1,17 @@
 # Week 1 Progress
 November 14th, 2o24
 
-## In Progress 
+## Completed Tasks: 
+<u> Pod 1 (Request Form): <u> 
+- Jason has been able to create a request form using Flask backend and HTML front end.
+- Form is data saved on the server side (python server, local host) to a CSV file and uploaded images are stored in an upload folder in the local directory
+- https://github.com/jasonBuras/skunkworks
 
-- Pod 1 (Request Form):
-  Jason has been able to create a request form using Flask backend and HTML front end. Form is data saved on the server side (python server, local host) to a CSV file and uploaded images are stored in an upload folder in the local directory
-https://github.com/jasonBuras/skunkworks
+<u> Pod 2 and 8 (Documentation & Priority Feat.): <u>
+- Created documentation for MVP and Week 1.
 
-- Pod 2 and 8 (Documentation & Priority Feat.):
-  Collaborating in class (14th)
-
-- Pod 3 (Tutoring):
-  Working on tutoring schedules, need updates, calendars
+<u> Pod 3 (Tutoring): <u>
+- In progress: Working on tutoring schedules, need updates, calendars.
 
 - Pod 4 (Database):
   Brainstorming tables needed, possibly using sqlalchemy and maybe postgres
