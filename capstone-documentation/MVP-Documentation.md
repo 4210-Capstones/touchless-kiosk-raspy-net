@@ -17,22 +17,22 @@ November 7th, 2024
 # MVP Requirements: 
 
 Authentication, Request Form 
-    - Required for Modifications. 
+- Required for Modifications. 
 
 Leap Motion Integration
-    - Interactive Gestures: selecting, movement of cursor. Interfacing with Camera. 
+- Interactive Gestures: selecting, movement of cursor. Interfacing with Camera. 
     
 Leap Motion UI Design, GUI
-    - Home Screen with atleast 2 buttons.
-    - Working window system. 
+- Home Screen with atleast 2 buttons.
+- Working window system. 
     
 Database 
-    - Department Data will be stored within.
+- Department Data will be stored within.
       
 API 
-    - Role Management
+- Role Management
       
 Repository for Server
 
 Image and Video Hosting. 
-    - How to host and use images. 
+- How to host and use images. 
