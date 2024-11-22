@@ -1,31 +1,20 @@
-## 1. Systems and Cycles
-### Systems
+# Roadmap Document: Pod 8
+
+## 1. Overview of Systems
+
+### Shared Systems
+
+### User-Specific Systems
+
 - **Navigation and Gesture Recognition**: Graphical user interface and Leap Motion implmementation for the kiosks.
 - **Authentication**: Back-end server for administrator/editor credentials and permissions.
 - **Resource Directory System**: Searchable databases for academic advisors, instructors, and organizations.
 - **Real-time Availability System**: Live tracking of classroom and study room availability.
 - **Credit Transfer System**: Display transfer credit information for students.
-  
-### Development Cycles
-1. **Cycle 1: MVP (Minimum Viable Product)**
-   - Focus: Core functionality, searchable directory, basic navigation.
-   - Goal: Deliver basic access to critical information for students.
-   
-2. **Cycle 2: High-Priority Features**
-   - Focus: Real-time data integration (classroom availability), faculty directory with images.
-   - Goal: Enhance user experience with live data and visual aids.
-
-3. **Cycle 3: Enhanced User Experience**
-   - Focus: Touchless campus map, study room availability, step-by-step guides.
-   - Goal: Improve campus navigation and resource accessibility.
-
-4. **Cycle 4: Scalability and Maintenance**
-   - Focus: Scalability, performance, and maintainability.
-   - Goal: Ensure the system can accommodate additional departments and handle updates.
 
 ---
 
-## 2. Milestones, Sprints, and Tasks
+## 2. Systems Breakdown: Milestones, Sprints, and Tasks
 
 ### Milestone 1: MVP - Core Functionality
 - **Sprint 1.1**: Build Searchable Directory (2 weeks)
@@ -62,8 +51,25 @@
 
 ---
 
-## 3. Mapping Features to Development Cycles
+## 3. Incremental Development Cycles
 
+### **Cycle 1: MVP (Minimum Viable Product)**
+   - Focus: Core functionality, searchable directory, basic navigation.
+   - Goal: Deliver basic access to critical information for students.
+   
+### **Cycle 2: High-Priority Features**
+   - Focus: Real-time data integration (classroom availability), faculty directory with images.
+   - Goal: Enhance user experience with live data and visual aids.
+
+### **Cycle 3: Enhanced User Experience**
+   - Focus: Touchless campus map, study room availability, step-by-step guides.
+   - Goal: Improve campus navigation and resource accessibility.
+
+### **Cycle 4: Scalability and Maintenance**
+   - Focus: Scalability, performance, and maintainability.
+   - Goal: Ensure the system can accommodate additional departments and handle updates.
+
+### Mapping Features to Development Cycles
 | Feature                                | Cycle       | Priority   | Difficulty |
 |----------------------------------------|-------------|------------|------------|
 | Searchable Directory                   | Cycle 1     | Critical   | Medium     |
