@@ -1,5 +1,5 @@
 # Week 1 Progress
-November 14th, 2o24
+November 14th, 2024
 
 ## Completed Tasks: 
 <u> Pod 1 (Request Form): <u> 
@@ -10,34 +10,42 @@ November 14th, 2o24
 <u> Pod 2 and 8 (Documentation & Priority Feat.): <u>
 - Created documentation for MVP and Week 1.
 
+<u> Pod 6 (UNO UI Research/Partner): <u> 
+- UI select UNO Partner that includes past research, current research, videos, design of the modules of various partners (backend).
+
+<u> Pod 9 (Auth/Role Management): <u> 
+- Added new repo to the server.
+
+<u> Pod A (Booking): <u> 
+- Discord bot created, low priority but created one.
+- Feedback: SQLLite can switch to MySQL.
+- Tried mocking the library system for our booking system; collab with Pod 3 (priority queue).
+ 
+  ## In Progress
 <u> Pod 3 (Tutoring): <u>
-- In progress: Working on tutoring schedules, need updates, calendars.
+- Working on tutoring schedules, need updates, calendars.
 
-- Pod 4 (Database):
-  Brainstorming tables needed, possibly using sqlalchemy and maybe postgres
+<u> Pod 4 (Database): <u>
+- Brainstorming tables needed, possibly using sqlalchemy and maybe postgres
 
-- Pod 5 (Leap Motion):
-  Waiting on the installation of new memory cards (finding them + setting them up). Swiping functionality research in progress. Mitchell is  working on the 3d printing stands for the cameras.
+<u> Pod 5 (Leap Motion): <u>
+- Waiting on the installation of new memory cards (finding them + setting them up).
+- Swiping functionality research in progress.
+- Mitchell is  working on the 3D printing stands for the cameras.
 
-- Pod 6 (UNO UI Research/Partner):
-  UI select UNO Partner that includes past research, current research, videos, design of the modules of various partners (backend)
+<u> Pod 7 (Windows UI): <u>
+- Started software with tkinter, currently barebones.
+- Trying to integrate the Leapmotion into the UI.
 
-- Pod 7 (Windows UI):
-  Software probably is tkinter has been started but barebones.  Trying to integrate the Leapmotion into the UI. (frontend), could use AI to look at coding
+<u> Pod A (Booking): <u> 
+- Justin, code still in progress.
+- Zoe and Mo are working on research.
+- Coordinate with Pod 4.
 
-- Pod 9 (Auth/Role Management):
-  New repo to the server
+<u> Pod B (General Resources): <u>
+- Research on creating a Resource applicable to UNO students, giving them information about resources available on campus, whether it's in the CSCI building or anywhere @ UNO.
 
-- Pod A (Booking):
-  Justin made some progress on his code and both Zoe and Mo are working on research - discord bot created, low priority but created one - collab with Pod 4. feedback: SQLLite can switch to MySQL. tried mocking the library system; potentially collab with Pod 3 (priority queue)
-
-- Pod B (General Resources):
-  Resource applicable to UNO student, giving them information about resources available on campus, whether it's in the CSCI building or anywhere @ UNO. functionality would simply be a main page, and a way to scroll through each displayed resource, such as showing off to students about the Light Lab or the Innovate Lab that they can use maybe not just limited to on campus, but perhaps also resources that any student or CSCI student can use
-
-- Pod C (Image/Slideshow):
-  research and started formulating a strategy.
-  affecting use images in our system.
-  
-  Pod C To-Do:
-  - look into python for image management easy.
-  - coordinate w/UI pods (6 and 7) -- video support needed too. 
+<u> Pod C (Image/Slideshow): <u>
+- Research and started formulating a strategy.
+- Looking into python for image management easy.
+- Coordinate w/UI pods (6 and 7) -- video support needed too.
