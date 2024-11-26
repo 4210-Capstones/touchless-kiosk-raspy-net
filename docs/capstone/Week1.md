@@ -7,13 +7,13 @@ November 14th, 2024
 - Form is data saved on the server side (python server, local host) to a CSV file and uploaded images are stored in an upload folder in the local directory
 - https://github.com/jasonBuras/skunkworks
 
-<u> Pod 2 and 8 (Documentation & Priority Feat.): <u>
+<u> Pod 2 and 8 (Documentation): <u>
 - Created documentation for MVP and Week 1.
 
-<u> Pod 6 (UNO UI Research/Partner): <u> 
-- UI select UNO Partner that includes past research, current research, videos, design of the modules of various partners (backend).
+<u> Pod 6 (GUI Dashboard, UI Research/Partners): <u> 
+- UI that includes past research, current research, videos, design of the modules of various partners (backend).
 
-<u> Pod 9 (Auth/Role Management): <u> 
+<u> Pod 9 (API and Auth/Role Management): <u> 
 - Added new repo to the server.
 
 <u> Pod A (Booking): <u> 
