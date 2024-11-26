@@ -1,13 +1,12 @@
 # Week 3 Progress
 November 21-26th, 2024
 
-## In Progress: 
 Reminders: 
 - Consistently Update the GitHub project page: Move completed tasks to the correct section.
 - Ensure the web server serves as a central gateway for all requests.
 - Integrate all components so they work seamlessly.
 
-## Pods Tasks:
+## In Progress:
 <u> pod 1: <u> 
 - work with pod 4, Connect submission form to the web server.
 - Create an admin view to:
