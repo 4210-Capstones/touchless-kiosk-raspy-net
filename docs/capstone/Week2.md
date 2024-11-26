@@ -43,7 +43,7 @@ November 19th-21st, 2024
 <u> Pod 1: <u>
 - Considering the integration of a calendar and date picker to specify advertisement durations. Can collaborate with students and faculty to refine time-related features.
 
-<Pod 2: Documentation>
+<u> Pod 2: Documentation <u>
 - Will finish documentation Week 2 by end of week.
 
 <u> pod 4 & 9: <u>
