@@ -1,5 +1,5 @@
-# MVP Documentation: 
-November 7th, 2024
+# MVP Documentation
+###### Updated December 5, 2024.
 
 - Pod 1 - Cycle 1 - Request Form
 - Pod 2 - Cycle 1 - Documentation (Collaboration with Pod 8)
@@ -11,16 +11,37 @@ November 7th, 2024
 - Pod 8 - Cycle 1 - Scrum Master (Task Coordination, Collaboration with Pod 2)
 - Pod 9 - Cycle 1 - Rest API (Authentication and Role Management)
 - Pod A - Cycle 2 - Booking System
-- Pod B - Cycle 2 - General Resources
+- ~~Pod B - Cycle 2 - General Resources~~ *(Pod disbanded.)*
 - Pod C - Cycle 1 - Image Management/Slideshow
+
+## MVP Documentation: The 3 Subsections of the MVP Build
+
+### Server & Authorization (APIs)
+
+pod 1 - HTML request form & admin portal
+pod 4 - database
+pod 9 - API protocol
+pod C - images database
+
+### GUI Views (GUIs)
+
+pod 7 - homepage
+pod A - booking
+pod 3 - tutoring
+pod 6 - research
+
+### Project Management  (Databases)
+
+pod 2 - documentation
+pod 8 - SCRUM
 
 # MVP Requirements: 
 
-Core Features:
+### Core Features:
   - Authentication
   - Request Form
     
-Requirements: 
+### Requirements: 
 - Leap Motion Integration
    - Interactive Gestures (e.g., selection, cursor movement, camera interface).
    - UI design and GUI (Home screen with 2 windows/buttons & functional window system). 
