@@ -17,21 +17,21 @@
 ## MVP Documentation: The 3 Subsections of the MVP Build
 
 ### Server & Authorization (APIs)
-* pod 1 - HTML request form & admin portal
-* pod 4 - [database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-4-database.md)
-* pod 5 - [leap motion integration & swamp lab](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-5-leap-integration-%2B-swamp-lab.md)
-* pod 9 - API protocol
-* pod C - images database
+* Pod 1 - HTML request form & admin portal
+* Pod 4 - [Database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-4-database.md)
+* Pod 5 - [Leap Motion Integration & Swamp Lab](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-5-leap-integration-%2B-swamp-lab.md)
+* Pod 9 - API Protocol
+* Pod C - Images Database
 
 ### GUI Views (GUIs)
-* pod 7 - homepage
-* pod A - booking
-* pod 3 - tutoring
-* pod 6 - research
+* Pod 7 - Homepage
+* Pod A - Booking
+* Pod 3 - Tutoring
+* Pod 6 - Research
 
 ### Project Management  (Databases)
-* pod 2 - [documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md)
-* pod 8 - SCRUM
+* Pod 2 - [Documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md)
+* Pod 8 - SCRUM
 
 # MVP Requirements: 
 
@@ -50,7 +50,7 @@
 - API 
     - Role Management
       
-- Seperate Repository for Server and Front-end
+- Seperate Repository for [Server](https://github.com/4210-Capstones/touchless-kiosk-server) and [Front-end](https://github.com/4210-Capstones/touchless-kiosk-front-end)
 
 - Image and Video Hosting. 
     - Hosting and Usage Guidelines.
