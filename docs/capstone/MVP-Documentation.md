@@ -50,7 +50,7 @@
 - API 
     - Role Management
       
-- Seperate Repository for Server
+- Seperate Repository for Server and Front-end
 
 - Image and Video Hosting. 
     - Hosting and Usage Guidelines.
