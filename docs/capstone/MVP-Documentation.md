@@ -17,23 +17,20 @@
 ## MVP Documentation: The 3 Subsections of the MVP Build
 
 ### Server & Authorization (APIs)
-
-pod 1 - HTML request form & admin portal
-pod 4 - database
-pod 9 - API protocol
-pod C - images database
+* pod 1 - HTML request form & admin portal
+* pod 4 - database
+* pod 9 - API protocol
+* pod C - images database
 
 ### GUI Views (GUIs)
-
-pod 7 - homepage
-pod A - booking
-pod 3 - tutoring
-pod 6 - research
+* pod 7 - homepage
+* pod A - booking
+* pod 3 - tutoring
+* pod 6 - research
 
 ### Project Management  (Databases)
-
-pod 2 - documentation
-pod 8 - SCRUM
+* pod 2 - documentation
+* pod 8 - SCRUM
 
 # MVP Requirements: 
 
