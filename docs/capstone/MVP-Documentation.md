@@ -18,7 +18,8 @@
 
 ### Server & Authorization (APIs)
 * pod 1 - HTML request form & admin portal
-* pod 4 - database
+* pod 4 - [database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-4-database.md)
+* pod 5 - [leap motion integration & swamp lab](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-5-leap-integration-%2B-swamp-lab.md)
 * pod 9 - API protocol
 * pod C - images database
 
@@ -29,7 +30,7 @@
 * pod 6 - research
 
 ### Project Management  (Databases)
-* pod 2 - documentation
+* pod 2 - [documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md)
 * pod 8 - SCRUM
 
 # MVP Requirements: 
