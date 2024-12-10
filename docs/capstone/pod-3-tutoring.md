@@ -12,15 +12,15 @@ The Tutoring Feature allows for managing tutor records on the database and provi
 
 ## Installation
 
-**1. Clone repository:**
+1. **Clone repository:**
 `git clone https://github.com/4210-Capstones/touchless-kiosk-server`
-**2. Create python environment:**
+2. **Create python environment:**
 `python -m venv venv`
 `venv\Scripts\activate`
-**3. Install dependencies:**
+3. **Install dependencies:**
 `pip install "fastapi[standard]"`
 `pip install --upgrade -r requirements.txt`
-**4. Launch app from project root:**
+4. **Launch app from project root:**
 `uvicorn backend.main:app --reload`
 
 ## Contributors
