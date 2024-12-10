@@ -162,6 +162,7 @@ on_imu_event(self, event)
    2. `LEAPSDK_INSTALL_LOCATION="/path/to your/ultraleap/LeapSDK"`
    3. `LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path/to your/ultraleap/LeapSDK/lib/file`
    4. `QT_QPA_PLATFORM=xcb`
+   5. Test environment variables and then add them to ~/.bashrc using `echo "[Insert environment variable here]" >> ~/.bashrc.` 
  
 4. Enable systemctl and systemd so the services start automatically upon reboot.
    1. **Start the service** `sudo systemctl start libtrack_server`
