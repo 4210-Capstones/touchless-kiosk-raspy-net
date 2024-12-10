@@ -26,12 +26,12 @@
 ### GUI Views (GUIs)
 * Pod 7 - Homepage
 * Pod A - Booking
-* Pod 3 - Tutoring
+* Pod 3 - [Tutoring](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-3-tutoring.md)
 * Pod 6 - Research
 
 ### Project Management  (Databases)
 * Pod 2 - [Documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md)
-* Pod 8 - SCRUM
+* Pod 8 - [SCRUM](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-8-scrum.md)
 
 # MVP Requirements: 
 
