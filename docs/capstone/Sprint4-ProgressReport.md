@@ -1,4 +1,4 @@
-## Week 4 - MVP Progress
+## Sprint 4 Progress Report, Final Sprint of Fall 2024 Semester
 Pod 8 - Front End Repo
 
 Where new users are going to be created. 
