@@ -5,10 +5,10 @@
 The Tutoring Feature allows for managing tutor records on the database and provides a REST API for handling tutoring availability. The Tutoring Feature is capable of adding, retrieving, updating, and deleting tutors. 
 
 Functions:
-**Add a tutor**: Creates a new tutor to the database with details such as, name, email, time in, and time out.
-**Retrieve a tutor**: Gets a list of all tutors on the database.
-**Update a tutor**: Edits the details of an existing tutor.
-**Delete a tutor**: Removes a tutor from the database.
+- **Add a tutor**: Creates a new tutor to the database with details such as, name, email, time in, and time out.
+- **Retrieve a tutor**: Gets a list of all tutors on the database.
+- **Update a tutor**: Edits the details of an existing tutor.
+- **Delete a tutor**: Removes a tutor from the database.
 
 ## Installation
 
