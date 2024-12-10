@@ -1,7 +1,7 @@
 # Stakeholder Interview Summary
-## Stakeholder: [Stakeholder Role]
-- **Interview Date**: [10/8/24]
-- **Interviewee**: [Student1]
+## Stakeholder: Stakeholder Role
+- **Interview Date**: 10/8/24
+- **Interviewee**: Student1
 ### Key Insights:
 - **Essential Features**: Mute, power off, channel/ app selection via gestures.
 - **Pain Points**: The need to reach for a remote or interacting with the TV manually would defeat the point of a touchless kiosk. It'd be more like the current limitations of the TV's set up.
