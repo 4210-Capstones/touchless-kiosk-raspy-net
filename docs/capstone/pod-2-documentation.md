@@ -1,4 +1,5 @@
 # Current Pod: 2 – documentation
+- To access the documentation visit: https://github.com/4210-Capstones/touchless-kiosk-raspy-net/tree/main/docs/capstone 
 - Documentation of the progress made and notes throughout each print.
 - Captures achievements, ongoing, and whats next for each pod.
 - Documents: MVP and Sprints 1-4 Progress Reports.
