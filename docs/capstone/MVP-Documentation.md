@@ -21,7 +21,7 @@
 * Pod 4 - [Database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-4-database.md)
 * Pod 5 - [Leap Motion Integration & Swamp Lab](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-5-leap-integration-%2B-swamp-lab.md)
 * Pod 9 - API Protocol
-* Pod C - Images Database
+* Pod C - [Images Database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-c-image-management.md)
 
 ### GUI Views (GUIs)
 * Pod 7 - Homepage
