@@ -4,7 +4,7 @@
 
 The Tutoring Feature allows for managing tutor records on the database and provides a REST API for handling tutoring availability. The Tutoring Feature is capable of adding, retrieving, updating, and deleting tutors. 
 
-Functions:
+**Functions:**
 - **Add a tutor**: Creates a new tutor to the database with details such as, name, email, time in, and time out.
 - **Retrieve a tutor**: Gets a list of all tutors on the database.
 - **Update a tutor**: Edits the details of an existing tutor.
@@ -12,15 +12,15 @@ Functions:
 
 ## Installation
 
-1. Clone repository:
+**1. Clone repository:**
 `git clone https://github.com/4210-Capstones/touchless-kiosk-server`
-2. Create python environment:
+**2. Create python environment:**
 `python -m venv venv`
 `venv\Scripts\activate`
-3. Install dependencies:
+**3. Install dependencies:**
 `pip install "fastapi[standard]"`
 `pip install --upgrade -r requirements.txt`
-4. Launch app from project root:
+**4. Launch app from project root:**
 `uvicorn backend.main:app --reload`
 
 ## Contributors
