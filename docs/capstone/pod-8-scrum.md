@@ -1,15 +1,15 @@
 # Current Pod: <8> – SCRUM
 
 ## Usage
-The SCRUM team collaborated and coordinated with SWENG’s Fall 2024 class in order to implement a MVP Build. 
+The SCRUM team collaborated and coordinated with SWENG’s Fall 2024 class in order to implement a [MVP Build](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md). 
 
 The MVP Build began on November 12, 2024, and ended on December 10, 2024. Over the course of a one-month period, all pods were given their task based on updates shared at each class meeting. 
 
-Listed below are the sprints update documented by the Documentation Team: Pod 2:
+Listed below are the sprints update documented by the [Documentation Team: Pod 2](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-2-documentation.md):
 * [Sprint 1 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint1-ProgressReport.md)
 * [Sprint 2 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint2-ProgressReport.md)
-* [Week Three](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week3.md)
-* [Week Four](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week4.md)
+* [Sprint 3 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint3-ProgressReport.md)
+* [Sprint 4 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint4-ProgressReport.md)
 
 ## Fall 2024 Pods
 - Pod 1: Request Form
@@ -32,4 +32,4 @@ Listed below are the sprints update documented by the Documentation Team: Pod 2:
 * [Victoria Pham](https://github.com/actuallyvee)
 
 ## Suggestions/comments (optional)
-* The MVP Build would need to containerize each pod's individual codes in order for there to be one environment to integrate the build.
+* The MVP Build would need to containerize each pod's individual codes in order for there to be one environment to initalize the build.
