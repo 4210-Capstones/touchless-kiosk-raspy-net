@@ -26,11 +26,11 @@ Project
 │   │   ├── request-form
 
 
-It should work with the current file paths in the code.
-I included a script and sample images found on Discord for simulating form submissions on our branch (request-form in the touchless-kiosk-server repo) if you want to try it
+It  work with the current file paths in the code.
+Included a script and sample images found on Discord for simulating form submissions on our branch (request-form in the touchless-kiosk-server repo) if you want to try it
 
 Steps to Run:
-(I used Anaconda to run local)
+( Used Anaconda to run local)
 Navigate to touchless-kiosk-server/
 
 [If you don't have the dependencies]:
