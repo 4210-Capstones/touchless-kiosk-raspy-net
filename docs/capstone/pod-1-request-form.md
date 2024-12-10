@@ -1,9 +1,10 @@
-[Contributors]
+# [Contributors]
 - Jason Tyler Buras
 - Miguel A Sanchez
 - Kumar Pathak
-
+- 
 Video Demonstration: https://streamable.com/r9cuzv
+
 # Request Form
 This should be just about ready to deploy for MVP
 - Request Form Submission -> Admin Panel -> Approve/Reject
