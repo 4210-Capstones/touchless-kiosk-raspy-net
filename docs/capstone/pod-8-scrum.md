@@ -3,10 +3,11 @@
 ## Usage
 The SCRUM team collaborated and coordinated with SWENG’s Fall 2024 class in order to implement a MVP Build. 
 
-The MVP Build began on November 14, 2024, and ended on December 10, 2024. Each week, all pods were given their task based on updates shared at each class meeting. 
+The MVP Build began on November 12, 2024, and ended on December 10, 2024. Over the course of a one-month period, all pods were given their task based on updates shared at each class meeting. 
 
-* [Week One](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week1.md)
-* [Week Two](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week2.md)
+Listed below are the sprints update documented by the Documentation Team: Pod 2:
+* [Sprint 1 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint1-ProgressReport.md)
+* [Sprint 2 Progress](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Sprint2-ProgressReport.md)
 * [Week Three](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week3.md)
 * [Week Four](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/Week4.md)
 
