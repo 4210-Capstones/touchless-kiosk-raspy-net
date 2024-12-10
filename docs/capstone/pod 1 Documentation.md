@@ -7,7 +7,9 @@ Kumar Pathak
 
 Request Form Submission -> Admin Panel -> Approve/Reject
 If Approved -> Move to front-end/images
+
 If Rejected -> Delete
+
 If directory setup is:
 Project
 ├── touchless-kiosk-server/
