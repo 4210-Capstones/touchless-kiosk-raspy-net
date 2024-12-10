@@ -147,15 +147,23 @@ on_imu_event(self, event)
 
 ## SWAMP Lab Usage
 ## Raspberry PI environment setup
-- **Follow steps 1-4 of the installation guide above.**
+- **Follow steps 1-2 of the installation guide above to install gemini.**
 - **A template .bashrc file is included at the end of this section**
-1. Create environment variables:
+1. Start a python virtual environment:
+   1. `python3 -m venv venv`
+   2. `source /path/to/you/venv/bin/activate`
+2. Build Python bindings
+   1.  Run `pip install -r /leapc-python-bindings/requirements.txt`
+   2.  Run `python -m build /leapc-python-bindings/leapc-cffi`
+   3.  Run `pip install /leapc-python-bindings/leapc-cffi/dist/leapc_cffi-0.0.1.tar.gz`
+   4.   Run `pip install -e /leapc-python-bindings/leapc-python-api`
+3. Create environment variables:
    1. `C_INCLUDE_PATH="/path/to your/LeapSDK/include/file":$C_INCLUDE_PATH`
    2. `LEAPSDK_INSTALL_LOCATION="/path/to your/ultraleap/LeapSDK"`
    3. `LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path/to your/ultraleap/LeapSDK/lib/file`
    4. `QT_QPA_PLATFORM=xcb`
  
-2. Enable systemctl and systemd so the services start automatically upon reboot.
+4. Enable systemctl and systemd so the services start automatically upon reboot.
    1. **Start the service** `sudo systemctl start libtrack_server`
    2. **Enable for auto restart** `sudo systemctl enable libtrack_server`
 
