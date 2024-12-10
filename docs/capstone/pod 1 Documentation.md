@@ -1,4 +1,10 @@
-This should be just about ready to deploy for MVP
+Contributors
+Jason Tyler Buras
+Miguel A Sanchez
+Kumar Pathak
+
+
+
 Request Form Submission -> Admin Panel -> Approve/Reject
 If Approved -> Move to front-end/images
 If Rejected -> Delete
