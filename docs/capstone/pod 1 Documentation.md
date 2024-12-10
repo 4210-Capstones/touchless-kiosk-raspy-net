@@ -6,25 +6,40 @@ Kumar Pathak
 
 
 Request Form Submission -> Admin Panel -> Approve/Reject
+
 If Approved -> Move to front-end/images
 
 If Rejected -> Delete
 
 If directory setup is:
+
 Project
 ├── touchless-kiosk-server/
+
 │   ├── backend/
+
 │   │   ├── All the backend code (API, database, etc)
+
 │   │   ├── uploads
+
 │   │   │   ├── img_requests
+
 │   │   │   │   ├── {email (before@)}_request_{request #}
+
 │   │   │   │   │   ├── Image Files
+
 ├── touchless-kiosk-front-end/
+
 │   ├── images/
+
 │   │   ├── slideshow pulls images from here
+
 │   ├── src/
+
 │   │   ├── home-interface
+
 │   │   │   ├──image_slideshow_function.py*
+
 │   │   ├── request-form
 
 
