@@ -1,7 +1,7 @@
 [Contributors]
-Jason Tyler Buras
-Miguel A Sanchez
-Kumar Pathak
+- Jason Tyler Buras
+- Miguel A Sanchez
+- Kumar Pathak
 
 Video Demonstration: https://streamable.com/r9cuzv
 # Request Form
