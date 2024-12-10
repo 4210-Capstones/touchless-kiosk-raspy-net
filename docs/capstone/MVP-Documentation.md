@@ -20,17 +20,17 @@
 * Pod 1 - HTML request form & admin portal
 * Pod 4 - [Database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-4-database.md)
 * Pod 5 - [Leap Motion Integration & Swamp Lab](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-5-leap-integration-%2B-swamp-lab.md)
-* Pod 9 - API Protocol
+* Pod 9 - [API Protocol](https://github.com/4210-Capstones/touchless-kiosk-server/blob/main/README.md)
 * Pod C - [Images Database](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-c-image-management.md)
 
 ### GUI Views (GUIs)
 * Pod 7 - Homepage
-* Pod A - Booking
+* Pod A - [Booking](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-A-booking-system.md)
 * Pod 3 - [Tutoring](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-3-tutoring.md)
 * Pod 6 - Research
 
 ### Project Management  (Databases)
-* Pod 2 - [Documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/MVP-Documentation.md)
+* Pod 2 - [Documentation](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-2-documentation.md)
 * Pod 8 - [SCRUM](https://github.com/4210-Capstones/touchless-kiosk-raspy-net/blob/main/docs/capstone/pod-8-scrum.md)
 
 # MVP Requirements: 
